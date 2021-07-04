@@ -133,5 +133,7 @@ for key, group in grouped:
 # - What was difficult?
 
 # YOUR ANSWER HERE
-
+# It was quite difficult. It was hard to understand how to write the code.
+#Write code to store in variables.
+#Think about the code to write.
 # Well done!
