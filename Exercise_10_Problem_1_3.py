@@ -12,7 +12,10 @@ import pandas as pd
 # Read the data (replace "None" with your own code)
 data = None
 # YOUR CODE HERE 1 to read the data
+fp = r'shopping_centers.txt'
+data = pd.read_csv(fp, sep = ',',names = ['id','name','addr'])
 
+#Exercise_10_Problem_1_3.py:15:1
 #TEST COEE
 # Check your input data
 print(data)
